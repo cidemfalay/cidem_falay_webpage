@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Öğelerle Yeni Klasör"
+		},
+		{
+			"path": "../../Downloads/fontawesome-free-6.5.2-web 2/webfonts"
+		},
+		{
+			"path": "../../Downloads/fontawesome-free-6.5.2-web 4/webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odev-1"
+	}
+}
